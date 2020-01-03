@@ -1,0 +1,52 @@
+WELCOME TO BLACKJACK...!!
+
+Each player starts with two cards, one of the dealer's cards is hidden until the end.
+To 'Hit' is to ask for another card. To 'Stand' is to hold your total and end your turn.
+If you go over 21 you bust, and the dealer wins regardless of the dealer's hand.
+
+How many chips you want to bet : 100
+
+Dealer's Hand:
+ <card hidden>
+ Three of Diamond
+
+Player's Hand:
+ Seven of Spade
+ Ace of Diamond
+Hit or Stand : Enter 'h' or 's' h
+
+Dealer's Hand:
+ <card hidden>
+ Three of Diamond
+
+Player's Hand:
+ Seven of Spade
+ Ace of Diamond
+ Eight of Hearts
+Hit or Stand : Enter 'h' or 's' s
+Player stands dealers turn 
+
+Dealer's Hand:
+ <card hidden>
+ Three of Diamond
+
+Player's Hand:
+ Seven of Spade
+ Ace of Diamond
+ Eight of Hearts
+
+Dealer's Hand:
+ Five of Diamond
+ Three of Diamond
+ Seven of Diamond
+ Five of Clubs
+Dealer's Hand = 20
+
+Player's Hand:
+ Seven of Spade
+ Ace of Diamond
+ Eight of Hearts
+Player's Hand = 16
+DEALER WON !!
+PLayer total chips are : 0
+Would you like to play again? (y/n) : 
