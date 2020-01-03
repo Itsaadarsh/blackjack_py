@@ -9,5 +9,5 @@ Hey this is my first Python Project!
 ->If you are dealt 21 from the start (Ace & 10), you got a blackjack.   
 ->Dealer will hit until his/her cards total 17 or higher.  
 # SUPPORT AND FEEDBACKS 
-INSTAGRAM - @aadarshcodes
+INSTAGRAM - @aadarshcodes  
 EMAIL - aadarsh.s2019@vitbhopal.ac.in / saadarsh362@gmail.com
