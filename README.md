@@ -1,6 +1,6 @@
 # BLACKJACK
 Hey this is my first Python Project!
-# RULES - 
+# RULES OF BLACKJACK - 
 ->The goal of blackjack is to beat the dealer's hand without going over 21.
 ->Face cards are worth 10. Aces are worth 1 or 11, whichever makes a better hand.
 ->Each player starts with two cards, one of the dealer's cards is hidden until the end.
