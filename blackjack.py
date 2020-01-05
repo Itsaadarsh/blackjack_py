@@ -1,3 +1,10 @@
+'''
+
+Done by - AADARSH.S 
+
+'''
+
+
 import  random
 
 suits = {'Hearts','Diamond','Spade','Clubs'}
