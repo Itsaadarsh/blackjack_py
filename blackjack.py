@@ -1,7 +1,6 @@
 '''
-
-Done by - AADARSH.S 
-
+DONE BY - AADARSH.S
+IG - @aadarshcodes
 '''
 
 
