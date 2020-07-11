@@ -8,6 +8,8 @@ Hey this is my first Python Project!
 ->If you go over 21 you bust, and the dealer wins regardless of the dealer's hand.  
 ->If you are dealt 21 from the start (Ace & 10), you got a blackjack.   
 ->Dealer will hit until his/her cards total 17 or higher.  
-# SUPPORT AND FEEDBACKS 
-INSTAGRAM - @aadarshcodes  
-EMAIL - aadarsh.s2019@vitbhopal.ac.in / saadarsh362@gmail.com
+# SUPPORT AND FEEDBACKS
+* [LinkedIN](https://www.linkedin.com/in/itsaadarsh/ "Linkedin") - Aadarsh Chauhan (itsaadarsh)  
+* [Twitter](https://www.twitter.com/itsaadarsh_ "Twitter") - itsaadarsh_  
+* [Instagram](https://www.instagram.com/itsaadarsh/ "@itsaadarsh") - itsaadarsh  
+* aadarsh-s@outlook.com
